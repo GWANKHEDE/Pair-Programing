@@ -73,7 +73,7 @@ CREATE DATABASE PairPrograming;
 
 2. Update the `.env` file in the `backend/` folder if needed (default credentials provided):
 ```env
-DATABASE_URL=postgresql://postgres:root@localhost:5432/PairPrograming
+DATABASE_URL=postgresql://postgres:password@localhost:5432/DbName
 ```
 
 ### Backend Setup
