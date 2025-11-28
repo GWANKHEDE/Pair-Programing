@@ -2,6 +2,12 @@
 
 A simplified real-time pair-programming web application built with **FastAPI** (backend) and **React + TypeScript + Redux** (frontend). Two users can join the same room, edit code collaboratively, and see each other's changes instantly. The application includes a mocked AI-style autocomplete feature.
 
+
+
+https://github.com/user-attachments/assets/b7a224d8-d430-46cb-bc40-88ac57a6ccbd
+
+
+
 ## 🌟 Features
 
 - **Room Creation & Joining**: Create unique rooms or join existing ones via room ID
